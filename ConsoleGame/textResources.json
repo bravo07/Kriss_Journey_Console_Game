@@ -1522,7 +1522,16 @@
         "id": "4_07",
         "recap": "is this my party - towards Ayonn",
         "type": "Story",
-        "text": "You walk away from the fire and the others.#\nYou start to have a weird feeling.#\n\nYou can't be here just randomly.# There must be some reason.#\n\nAnd if there is a thing you know now,# it's you won't have peace until you'll find it.##\n\n$c<<And these guys here they seem to believe in me.# Like they were...# waiting for someone like me?>>#\n\n<<What am I thinking!# What should I expect from myself now,# to become their leader?>>$C#\n\nYou are lost in your thoughts, looking at the horizon.#\nYou barely notice the others getting close to behind you.#\nYou barely notice your own hand moving,# as it has its own will,# reaching for the sword.##\n\nYou don't know what you feel more,# if surprised,# or determined,# when you find yourself exclaiming,#\nwhile you theatrically draw your sword,# pointing it to the west:##\n\n$c\"To Ayonn!\""
+        "text": "You walk away from the fire and the others.#\nYou start to have a weird feeling.#\n\nYou can't be here just randomly.# There must be some reason.#\n\nAnd if there is a thing you know now,# it's you won't have peace until you'll find it.##\n\n$c<<And these guys here they seem to believe in me.# Like they were...# waiting for someone like me?>>#\n\n<<What am I thinking!# What should I expect from myself now,# to become their leader?>>$C#\n\nYou are lost in your thoughts, looking at the horizon.#\nYou barely notice the others getting close to behind you.#\nYou barely notice your own hand moving,# as it has its own will,# reaching for the sword.##\n\nYou don't know what you feel more,# if surprised,# or determined,# when you find yourself exclaiming,#\nwhile you theatrically draw your sword,# pointing it to the west:##\n\n$c\"To Ayonn!\"",
+        "childid": "5_01"
+      }
+    ],
+    [
+      {
+        "id": "5_01",
+        "type": "Story",
+        "text": "$D-----END OF CHAPTER 5-----",
+        "childid": "5_01"
       }
     ]
   ]
